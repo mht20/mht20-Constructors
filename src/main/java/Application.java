@@ -1,10 +1,13 @@
 public class Application {
     /**
-     * This class contains a main method that allows you to manually test the Constructors lab functionality.
-     * No changes you make here affect the test case results. You must still run & pass the test cases.
+     * This class contains a main method that allows you to manually test the
+     * Constructors lab functionality.
+     * No changes you make here affect the test case results. You must still run &
+     * pass the test cases.
      * All implementation code should be written in the Player class.
      *
-     * The Player class should have constructors that allow other developers to instantiate the Objects in a certain
+     * The Player class should have constructors that allow other developers to
+     * instantiate the Objects in a certain
      * way.
      */
     public static void main(String[] args) {
